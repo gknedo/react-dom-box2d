@@ -1,6 +1,6 @@
 {
   "name": "react-dom-box2d",
-  "version": "0.4.1-patch.1",
+  "version": "0.4.2",
   "description": "Box2d physics engine and React DOM integrated ",
   "main": "build/index.js",
   "scripts": {
@@ -19,9 +19,9 @@
   "author": "Nagarajan N <oneto018@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "react": "^16.8.0",
-    "webpack": "^4.28.3",
-    "@flyover/box2d": "github:flyover/box2d.ts#99a83dd78fc7bd6d56893a3605e838dbe44c543e"
+    "@flyover/box2d": "github:flyover/box2d.ts#48e167c59afbfd9262c6051529692cd394d7938e",
+    "react": "^17.0.2",
+    "webpack": "^5.61.0"
   },
   "peerDependencies": {
     "react": "^16.8.0",
@@ -38,9 +38,9 @@
     "docz": "^0.13.7",
     "docz-theme-bone": "^0.11.3",
     "docz-theme-default": "^0.13.7",
-    "webpack-cli": "^3.1.2",
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "webpack-cli": "^4.9.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "repository": {
     "type": "git",
