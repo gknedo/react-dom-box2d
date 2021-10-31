@@ -19,7 +19,7 @@
   "author": "Nagarajan N <oneto018@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@flyover/box2d": "github:flyover/box2d.ts#48e167c59afbfd9262c6051529692cd394d7938e",
+    "@flyover/box2d": "github:flyover/box2d.ts#99a83dd78fc7bd6d56893a3605e838dbe44c543e",
     "react": "^17.0.2",
     "webpack": "^5.61.0"
   },
